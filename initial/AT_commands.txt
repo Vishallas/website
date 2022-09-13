@@ -1,0 +1,9 @@
+Command			Respond
+
+AT     			OK
+AT+RESET                OK
+AT+VERSION? 		+VERSION:<Param>
+AT+NAME=<Param>		OK
+AT+ NAME?		+NAME:<Param>
+AT+PSWD=<Param>		OK
+AT+ PSWD?		+PSWD   : <Param>
